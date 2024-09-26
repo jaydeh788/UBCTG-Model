@@ -1,1 +1,1 @@
-# UBCTG-Model
+# UBCTGFactorResearchModel
